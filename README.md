@@ -6,9 +6,9 @@ Para acessar as imagens, utilizamos jsDelivr: https://www.jsdelivr.com/
 Documentação: https://www.jsdelivr.com/documentation
 
 # ⚠️ Requisitos
-1. Conta autorizada para modificar o repositório local (content-viviane). Contate um programador para lhe dar permissões.
+> Conta autorizada para modificar o repositório local (content-viviane). Contate um programador para lhe dar permissões.
 
-2. O repositório precisa ser público para que isto funcione.
+> O repositório precisa ser público para que isto funcione.
 
 # 📂 Inserindo imagens
 Vincule uma pasta dedicada para conter um acesso ao repositório. Ex:

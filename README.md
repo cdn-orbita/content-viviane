@@ -5,16 +5,15 @@ Content Delivery Network (cdn) para Órbita Marketing Digital Ltda. servindo a E
 > 
 > Documentação: https://www.jsdelivr.com/documentation
 
-# 📌 Tutorial (em inglês)
-```
-https://www.youtube.com/watch?v=aBzhq9V2WAg
-```
-
 # ⚠️ Requisitos
 > Conta autorizada para modificar o repositório local (content-viviane). Contate um programador para lhe dar permissões.
 > 
 > O repositório precisa ser público para que isto funcione.
-> 
+
+# 📌 Tutorial (em inglês)
+```
+https://www.youtube.com/watch?v=aBzhq9V2WAg
+```
 
 # 📂 Inserindo imagens
 Vincule uma pasta dedicada para conter um acesso ao repositório. Ex:

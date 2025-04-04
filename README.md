@@ -33,12 +33,12 @@ git push
 ```
 
 # 🔭 Acessar imagens do repositório
-## Modelo do link para acessar a imagem do repositório:
-```
-https://cdn.jsdelivr.net/gh/username/repositorio/nome-da-imagem.ext
-```
-
 ### Link rápido:
 ```
 https://cdn.jsdelivr.net/gh/cdn-orbita/content-viviane/nome-da-imagem.ext
+```
+
+### Modelo do link para acessar a imagem do repositório:
+```
+https://cdn.jsdelivr.net/gh/username/repositorio/nome-da-imagem.ext
 ```

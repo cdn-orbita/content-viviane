@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=aBzhq9V2WAg
 ```
 
 # 📂 Inserindo imagens
-Vincule uma pasta dedicada para conter um acesso ao repositório. Ex:
+### Vincule uma pasta dedicada para conter um acesso ao repositório. Exemplo:
 ```
 F:/Desktop/git/repositorio
 ```

@@ -28,7 +28,7 @@ Faça login no github para confirmar permissões e poder começar a enviar image
 
 Insira a imagem a ser enviada na pasta dedicada mencionada anteriormente.
 
-### 📤 Agora dê upload utilizando:
+### </> Agora dê upload utilizando:
 ```
 git add nome-da-imagem.ext
 git commit -m "mensagem teste de commit"

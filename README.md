@@ -1,6 +1,8 @@
 # Descrição
 Content Delivery Network (cdn) para Órbita Marketing Digital Ltda. servindo a Estética Viviane Magalhães.
+
 Para acessar as imagens, utilizamos jsDelivr (OpenSource) (https://www.jsdelivr.com/)
+
 Documentação: https://www.jsdelivr.com/documentation
 
 # Requisitos

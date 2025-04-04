@@ -14,8 +14,9 @@ Content Delivery Network (cdn) para Órbita Marketing Digital Ltda. servindo a E
 
 # 📂 Inserindo imagens
 Vincule uma pasta dedicada para conter um acesso ao repositório. Ex:
-
+```
 F:/Desktop/git/repositorio
+```
 
 ### Vincule pelo console cmd usando:
 ```

@@ -5,7 +5,7 @@ Content Delivery Network (cdn) para Órbita Marketing Digital Ltda. servindo a E
 > 
 > Documentação: https://www.jsdelivr.com/documentation
 
-# Tutorial (em inglês)
+# 📌 Tutorial (em inglês)
 ```
 https://www.youtube.com/watch?v=aBzhq9V2WAg
 ```

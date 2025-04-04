@@ -34,9 +34,11 @@ git push
 
 # 🔭 Acessar imagens do repositório
 ## Modelo do link para acessar a imagem do repositório:
-
-cdn.jsdelivr.net/gh/username/repositorio/nome-da-imagem.ext
+```
+https://cdn.jsdelivr.net/gh/username/repositorio/nome-da-imagem.ext
+```
 
 ### Link rápido:
-
-cdn.jsdelivr.net/gh/cdn-orbita/content-viviane/nome-da-imagem.ext
+```
+https://cdn.jsdelivr.net/gh/cdn-orbita/content-viviane/nome-da-imagem.ext
+```
